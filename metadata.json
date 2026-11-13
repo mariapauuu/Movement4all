@@ -1,0 +1,6 @@
+{
+  "name": "Movement4all",
+  "description": "Motor de búsqueda y coordinación de entrenamientos grupales de running, ciclismo de montaña, ciclismo de ruta y natación en aguas abiertas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
